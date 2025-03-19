@@ -1,0 +1,26 @@
+dic 11, 2024 6:30:31 P. M. vista.PanelMedicos insertarMedico
+INFO: Médico agregado: pp pp
+dic 11, 2024 6:30:39 P. M. vista.PanelMedicos eliminarMedico
+INFO: Médico eliminado: pp pp
+dic 16, 2024 4:15:50 P. M. vista.PanelMedicos insertarMedico
+INFO: Médico agregado: qqqq qqqqq
+dic 16, 2024 4:16:06 P. M. vista.PanelMedicos eliminarMedico
+INFO: Médico eliminado: qqqq 
+dic 16, 2024 4:16:26 P. M. vista.PanelMedicos eliminarMedico
+INFO: Médico eliminado: qqqq qqqqq
+dic 16, 2024 5:32:31 P. M. vista.PanelMedicos insertarMedico
+INFO: Médico agregado: yyyy uuuu
+dic 16, 2024 5:33:02 P. M. vista.PanelMedicos eliminarMedico
+INFO: Médico eliminado: iiii uuuu
+dic 16, 2024 5:33:21 P. M. vista.PanelMedicos eliminarMedico
+INFO: Médico eliminado: yyyy uuuu
+dic 16, 2024 5:36:52 P. M. vista.PanelMedicos insertarMedico
+INFO: Médico agregado: jjj oooo
+dic 16, 2024 5:37:05 P. M. vista.PanelMedicos eliminarMedico
+INFO: Médico eliminado: jjj ooo
+dic 16, 2024 5:37:28 P. M. vista.PanelMedicos eliminarMedico
+INFO: Médico eliminado: jjj oooo
+dic 16, 2024 5:45:33 P. M. vista.PanelMedicos insertarMedico
+INFO: Médico agregado: jjj jjj
+dic 16, 2024 5:46:14 P. M. vista.PanelMedicos eliminarMedico
+INFO: Médico eliminado: jjj jjj

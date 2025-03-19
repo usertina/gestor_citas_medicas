@@ -1,0 +1,44 @@
+Nombre: ana, Apellido: perez, Teléfono: 12345678, Email: ana@gmail.com
+Nombre: ibon, Apellido: ruiz, Teléfono: 987654321, Email: i@gmail.com
+Nombre: Ana, Apellido: Gomez, Teléfono: 98365467, Email: ana@gmail.com
+Nombre: pedro, Apellido: , Teléfono: , Email: 
+Nombre: jose, Apellido: garrido, Teléfono: 98765436, Email: jjjj@gmail.com
+Nombre: antonio, Apellido: perez, Teléfono: 9999999, Email: hhh@gmail.com
+Nombre: maria, Apellido: gutierrez, Teléfono: 0009888, Email: hhh@err
+Nombre: pepe, Apellido: as, Teléfono: 98547899, Email: qwer@eff
+Nombre: tina, Apellido: calle, Teléfono: 9999876, Email: hhhh@dddd
+Nombre: carlos, Apellido: lopez, Teléfono: 987678, Email: hhhh@dd
+Nombre: ana, Apellido: gggg, Teléfono: 9999, Email: hhhh
+Nombre: qqqq, Apellido: ddddd, Teléfono: 00000, Email: bhuou
+Nombre: antonio, Apellido: fesd, Teléfono: 88888, Email: jklin
+Nombre: vvvv, Apellido: iiiii, Teléfono: 88888, Email: aaaa
+Nombre: pppp, Apellido: qqqq, Teléfono: 7777, Email: yuy
+Nombre: paula, Apellido: ant, Teléfono: 009877, Email: hgft
+Nombre: carlos, Apellido: sasdf, Teléfono: 765577, Email: dddd@ggg
+Nombre: pedro, Apellido: nnn, Teléfono: 00000, Email: hhhh@ww
+Nombre: nnnn, Apellido: kkkkk, Teléfono: 00000, Email: 77777
+Nombre: mm, Apellido: bb, Teléfono: 8888, Email: ooo
+Paciente:
+  Nombre: antonio
+  Apellido: perez
+  Teléfono: 96754356
+  Email: antonio@gmail.com
+-----------------------------
+Paciente:
+  NOMBRE: ttttt
+  APELLIDO: yyyyyy
+  TELÉFONO: 999999999
+  EMAIL: ggggg@ggg.com
+-----------------------------
+Paciente:
+  NOMBRE: ana
+  APELLIDO: geo
+  TELÉFONO: 999999999
+  EMAIL: hhhh@gmail.com
+-----------------------------
+Paciente:
+  NOMBRE: ana
+  APELLIDO: perez
+  TELÉFONO: 999987657
+  EMAIL: hhh@gmal.com
+-----------------------------

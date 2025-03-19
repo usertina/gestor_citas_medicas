@@ -1,0 +1,74 @@
+dic 11, 2024 6:25:17 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: nnnn kkkkk
+dic 11, 2024 6:25:48 P. M. vista.PanelCitas agendarCita
+INFO: Cita agendada correctamente para el paciente: nnnn kkkkk, médico: Ana Gomez, especialidad: Pediatría, sala: B101, fecha: 2024-12-11 a las 09:00
+dic 11, 2024 6:30:10 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: nnnn kkkkk
+dic 11, 2024 6:31:01 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: mm bb
+dic 11, 2024 6:46:04 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: mm bb
+dic 11, 2024 6:47:10 P. M. vista.PanelCitas agendarCita
+INFO: Cita agendada correctamente para el paciente: mm bb, médico: Laura Sanchez, especialidad: Neurología, sala: C106, fecha: 2024-12-11 a las 10:10
+dic 11, 2024 6:52:31 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: mm bb
+dic 11, 2024 6:57:02 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: mm bb
+dic 11, 2024 7:10:41 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: mm bb
+dic 11, 2024 7:19:03 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: mm bb
+dic 11, 2024 7:29:07 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: mm bb
+dic 11, 2024 7:30:08 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: mm bb
+dic 11, 2024 7:33:41 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: mm bb
+dic 11, 2024 7:35:54 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: mm bb
+dic 11, 2024 7:43:04 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: mm bb
+dic 16, 2024 3:38:00 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: mm bb
+dic 16, 2024 3:38:55 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: antonio perez
+dic 16, 2024 3:39:24 P. M. vista.PanelCitas agendarCita
+INFO: Cita agendada correctamente para el paciente: antonio perez, médico: Raul Garcia, especialidad: Pediatría, sala: B107, fecha: 2024-12-16 a las 09:00
+dic 16, 2024 3:55:24 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: antonio perez
+dic 16, 2024 3:56:40 P. M. vista.PanelCitas agendarCita
+INFO: Cita agendada correctamente para el paciente: antonio perez, médico: Raul Garcia, especialidad: Pediatría, sala: B107, fecha: 2024-12-18 a las 09:20
+dic 16, 2024 4:03:05 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: antonio perez
+dic 16, 2024 4:15:07 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: antonio perez
+dic 16, 2024 4:24:24 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: antonio perez
+dic 16, 2024 4:26:13 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: ttttt yyyyyy
+dic 16, 2024 5:00:48 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: ttttt yyyyyy
+dic 16, 2024 5:01:53 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: ana geo
+dic 16, 2024 5:02:12 P. M. vista.PanelCitas agendarCita
+INFO: Cita agendada correctamente para el paciente: ana geo, médico: Eva Rodriguez, especialidad: Cardiología, sala: A108, fecha: 2024-12-16 a las 09:00
+dic 16, 2024 5:03:19 P. M. vista.PanelCitas agendarCita
+SEVERE: Error al gestionar la cita: Error al registrar la cita: Duplicate entry 'Eva Rodriguez-2024-12-16-09:00:00' for key 'citas.medico'
+dic 16, 2024 5:10:44 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: ana geo
+dic 16, 2024 5:11:25 P. M. vista.PanelCitas agendarCita
+INFO: Cita agendada correctamente para el paciente: ana geo, médico: Raul Garcia, especialidad: Pediatría, sala: B107, fecha: 2024-12-16 a las 08:40
+dic 16, 2024 5:14:05 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: ana geo
+dic 16, 2024 5:24:15 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: ana geo
+dic 16, 2024 5:25:50 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: ana perez
+dic 16, 2024 5:31:50 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: ana perez
+dic 16, 2024 5:36:20 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: ana perez
+dic 16, 2024 5:44:47 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: ana perez
+dic 16, 2024 5:48:31 P. M. vista.PanelCitas actualizarPacientes
+INFO: Se ha actualizado el ComboBox de pacientes. Último paciente: ana perez

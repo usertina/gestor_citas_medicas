@@ -1,0 +1,26 @@
+{
+    "java.project.referencedLibraries": [
+        "c:\\Users\\USUARIO1\\Desktop\\mysql-connector-j-9.1.0.jar"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "conexion",
+            "database": "GestionCitas",
+            "username": "root"
+        }
+    ],
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "cSpell.words": [
+        "modelo"
+    ]
+}
