@@ -62,7 +62,7 @@ Paso 1: Configurar la Base de Datos
 2. Asegúrate de tener Docker instalado y ejecuta el siguiente comando para levantar un contenedor de MySQL:
 
 ```bash
-docker run --name mysql-citas -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=citas_medicas -p 3306:3306 -d mysql:latest
+docker run --name mysql-citas -e MYSQL_ROOT_PASSWORD=admin -e MYSQL_DATABASE=GestionCitas -p 3306:3306 -d mysql:latest
 ```
 3. Una vez que el contenedor esté ejecutándose, puedes conectarte a la base de datos con un cliente como phpMyAdmin o MySQL Workbench usando las siguientes credenciales:
 
@@ -72,7 +72,7 @@ Puerto: 3306
 
 Usuario: root
 
-Contraseña: root
+Contraseña: admin
 
 4. Ejecuta el script conexión_sesion.sql para crear las tablas necesarias en la base de datos.
 
