@@ -18,7 +18,6 @@ CREATE TABLE medicos (
     email VARCHAR(150) NOT NULL
 );
  
-
  CREATE TABLE citas (
     id INT AUTO_INCREMENT PRIMARY KEY,
     paciente VARCHAR(100),
@@ -30,8 +29,7 @@ CREATE TABLE medicos (
     UNIQUE (medico, fecha, hora) -- Para evitar citas duplicadas
 );
 
-
-    CREATE TABLE usuarios (
+ CREATE TABLE usuarios (
     id INT AUTO_INCREMENT PRIMARY KEY,
     usuario VARCHAR(50) NOT NULL UNIQUE,
     contraseña VARCHAR(100) NOT NULL
